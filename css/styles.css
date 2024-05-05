@@ -603,7 +603,7 @@ progress {
   float: right;
   width:  100px;
   height: 50px;
-/*   object-fit: cover; */
+  object-fit: fit;
 }
 
 .img-thumbnail {
