@@ -601,8 +601,8 @@ progress {
 /*   max-width: 100%;
   height: auto; */
   float: right;
-  width:  200px;
-  height: 100px;
+  width:  100px;
+  height: 50px;
   object-fit: cover;
 }
 
